@@ -2,6 +2,7 @@
 
 Ce projet porte sur l'implémentation d'un système de recommandation en utilisant l'ensemble de données **MovieLens 100K**.  
 L'objectif principal est de développer un modèle basé sur le **filtrage collaboratif** pour prédire les notes des utilisateurs sur des films et proposer des recommandations personnalisées.
+Le code de l'algorithme est contenu dans le fichier `Projet Maths2.ipynb`.
 
 ---
 
