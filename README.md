@@ -18,8 +18,8 @@ Les données utilisées proviennent du site [MovieLens](https://grouplens.org/da
 
 ### **Statistiques principales :**
 - **100 000** notes allant de 1 à 5.
-- **943 utilisateurs**.
-- **1 682 films**.
+- **943** utilisateurs.
+- **1 682** films.
 
 (Plus de détails dans le document `u.info`.)
 
@@ -52,9 +52,9 @@ Approche :
 
 - **Langage** : Python  
 - **Bibliothèques principales :**
-  - `csv` : Chargement des fichiers de données.  
-  - `numpy` : Calcul matriciel.  
-  - `matplotlib`/`pylab` : Visualisation des matrices.
+  - `csv` : chargement des fichiers de données.  
+  - `numpy` : calcul matriciel.  
+  - `matplotlib`/`pylab` : visualisation des matrices.
 
 ---
 
